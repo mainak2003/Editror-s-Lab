@@ -483,7 +483,7 @@ input[type=text] {
 
 .button:focus {
 	outline: none;
-	background-color: rgb(29, 4, 4);
+	background-color: rgb(239, 233, 233);
 }
 
 .button {
